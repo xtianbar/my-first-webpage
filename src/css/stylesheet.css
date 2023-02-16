@@ -1,0 +1,28 @@
+img {
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+    border: #000 solid;
+}
+img:hover {
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+    border: white solid;
+}
+* {
+    text-align: center;
+    background-color: rgb(248, 143, 197);
+}
+h1 {
+    color: #ffffff;
+    text-decoration: underline;
+    text-decoration-color: #000;
+    text-underline-offset: 0.6rem;
+}
+h1:hover {
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-underline-offset: 0.6rem;
+}
